@@ -19,6 +19,6 @@ My name is Rei, I have a passion for coding and I enjoy learning about new thing
 🎮 I enjoy playing video games in my free time, as well as work on small coding projects.
 
 ### Education 🏫
-🎓 I am a current student at the University of Illinois in Urbana Champaign and will graduate in 2026
+🎓 I am a recent graduate at the University of Illinois in Urbana Champaign
 
-🖥 I am majoring in Information Sciences, taking classes related to Data Science 
+🖥 I majored in Information Sciences, taking classes related to Data Science 
